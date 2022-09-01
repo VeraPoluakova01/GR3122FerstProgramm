@@ -1,0 +1,15 @@
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.csproj.AssemblyReference.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.AssemblyInfoInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.AssemblyInfo.cs
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\bin\Debug\net6.0\Sem1Task8hw.exe
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\bin\Debug\net6.0\Sem1Task8hw.deps.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\bin\Debug\net6.0\Sem1Task8hw.runtimeconfig.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\bin\Debug\net6.0\Sem1Task8hw.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\bin\Debug\net6.0\Sem1Task8hw.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\refint\Sem1Task8hw.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\Sem1Task8hw.genruntimeconfig.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem1Task8hw\obj\Debug\net6.0\ref\Sem1Task8hw.dll
