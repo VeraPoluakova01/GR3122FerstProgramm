@@ -1,0 +1,15 @@
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.csproj.AssemblyReference.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.AssemblyInfoInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.AssemblyInfo.cs
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\bin\Debug\net6.0\Sem2Task9.exe
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\bin\Debug\net6.0\Sem2Task9.deps.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\bin\Debug\net6.0\Sem2Task9.runtimeconfig.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\bin\Debug\net6.0\Sem2Task9.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\bin\Debug\net6.0\Sem2Task9.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\refint\Sem2Task9.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\Sem2Task9.genruntimeconfig.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem2Task9\obj\Debug\net6.0\ref\Sem2Task9.dll
