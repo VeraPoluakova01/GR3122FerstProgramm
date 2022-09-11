@@ -12,14 +12,25 @@ int ReadData(string line) //доб. смс пользователю
 }
 bool TestPolindrom(int P) // проверяем на полиндром
 {
-    if ((P / 10000 == P % 10) && ((P / 1000) % 10) == (P / 10) % 10)
-        return true;
+    if (P > 9999 && P < 100000)
+    {
+
+        if ((P / 10000 == P % 10) && ((P / 1000) % 10) == (P / 10) % 10)
+            return true;
+        else
+            return false;
+    }
+
     else
+    {
+        Console.WriteLine("Число не пятизначное");
         return false;
+    }
 }
 void PrintResult(bool line) //выводим ответ
 {
     Console.WriteLine(line);
 }
+
 int num = ReadData("Введите пятизначное число ");
 PrintResult(TestPolindrom(num));
