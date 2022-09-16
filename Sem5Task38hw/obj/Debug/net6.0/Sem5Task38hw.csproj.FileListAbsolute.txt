@@ -1,0 +1,15 @@
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.csproj.AssemblyReference.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.AssemblyInfoInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.AssemblyInfo.cs
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\bin\Debug\net6.0\Sem5Task38hw.exe
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\bin\Debug\net6.0\Sem5Task38hw.deps.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\bin\Debug\net6.0\Sem5Task38hw.runtimeconfig.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\bin\Debug\net6.0\Sem5Task38hw.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\bin\Debug\net6.0\Sem5Task38hw.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\refint\Sem5Task38hw.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\Sem5Task38hw.genruntimeconfig.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\Sem5Task38hw\obj\Debug\net6.0\ref\Sem5Task38hw.dll
