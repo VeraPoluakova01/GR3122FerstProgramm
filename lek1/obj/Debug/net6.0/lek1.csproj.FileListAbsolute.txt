@@ -1,0 +1,15 @@
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\bin\Debug\net6.0\lek1.exe
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\bin\Debug\net6.0\lek1.deps.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\bin\Debug\net6.0\lek1.runtimeconfig.json
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\bin\Debug\net6.0\lek1.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\bin\Debug\net6.0\lek1.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.csproj.AssemblyReference.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.AssemblyInfoInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.AssemblyInfo.cs
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\refint\lek1.dll
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.pdb
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\lek1.genruntimeconfig.cache
+D:\GeekBrains\Gruppa3122\GR3122FerstProgramm\lek1\obj\Debug\net6.0\ref\lek1.dll
