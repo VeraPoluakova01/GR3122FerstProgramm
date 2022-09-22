@@ -57,7 +57,7 @@ double[] Count(int[,] arr2D)
     }
     for (int k = 0; k < arr.GetLength(0); k++)
     {
-        arr[k] =arr[k] / arr2D.GetLength(0);
+        arr[k] =arr[k] / ((double)arr2D.GetLength(0));
     }
     return arr;
 }
