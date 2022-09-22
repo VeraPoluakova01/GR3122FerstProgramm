@@ -34,7 +34,7 @@ int secondDigit = number % 10;
 Console.WriteLine((ferstDigit>secondDigit)? ferstDigit : secondDigit);
 }
 // Вариант char
-void CharVariant()
+//void CharVariant()
 {
     Console.WriteLine("Метод 3");
     System.Random numberGenerator = new System.Random();

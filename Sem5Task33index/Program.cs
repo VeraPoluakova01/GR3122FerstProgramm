@@ -13,13 +13,6 @@ int ReadData(string line)
     // Возвращаем значение
     return number;
 }
-
-// Печать результата
-void PrintResult(string line)
-{
-    Console.WriteLine(line);
-}
-
 // Заполняем массив
 int[] GenArray(int arrLength, int start, int stop)
 {
