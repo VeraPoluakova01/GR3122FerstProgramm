@@ -34,4 +34,4 @@ int Akkerman(int m, int n)
 }
 int m = ReadData("Введите число M: ");
 int n = ReadData("Введите число N: ");
-PrintResult(Akkerman(n, m));
+PrintResult(Akkerman(m, n));
