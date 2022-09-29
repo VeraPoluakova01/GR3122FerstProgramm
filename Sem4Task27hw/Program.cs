@@ -27,4 +27,4 @@ int SumDigit(int num)
 }
 int num1 = ReadData("Введите число: ");
 int sum1 = SumDigit(num1);
-PrintResult("Чмсло " + sum1);
+PrintResult("Число " + sum1);
